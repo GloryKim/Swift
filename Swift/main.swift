@@ -2,10 +2,19 @@
 //  main.swift
 //  Swift
 //
-//  Created by Glory on 2020/10/29.
+//  Created by Glory on 2020/10/30.
 //
 
-import Foundation
+import Swift
 
-print("Hello, World!")
+class Person {
+    var name: String = "yagom"
+    let age: Int = 10
+}
+
+let yagom: Person = Person()
+
+print(yagom)
+print("====================")
+dump(yagom)
 
