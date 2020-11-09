@@ -2,6 +2,10 @@
 
 ## 매일 아침 Swift 기초 공부용도
 
+## 1.1.2 (201109)
+1. 예제 파일 정리
+2. 참고용 자료 정리 (출처 : https://github.com/Jusung/the-swift-programming-language-kr)
+
 ## 1.1.1 (201103)
 1. 할당 연산자(Assignment Operator) 예시 작성
 
