@@ -2,6 +2,10 @@
 
 ## 매일 아침 Swift 기초 공부용도
 
+## 1.1.3 (201109)
+1. 출처 파일 설정 오류 수정
+2. 폴더 명 수정
+
 ## 1.1.2 (201109)
 1. 예제 파일 정리
 2. 참고용 자료 정리 (출처 : https://github.com/Jusung/the-swift-programming-language-kr)
