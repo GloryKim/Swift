@@ -1,3 +1,7 @@
+# The Swift Language Guide \(한국어\)
+
+- 출처 : https://github.com/Jusung/the-swift-programming-language-kr
+
 # Table of contents
 
 * [The Swift Language Guide \(한국어\)](README.md)
